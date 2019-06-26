@@ -1,0 +1,5 @@
+com\google\test\AcceptanceTests.class
+com\google\pages\SearchPage.class
+com\google\stepdefentions\Stepsnew.class
+com\google\stepdefentions\SummarySteps.class
+com\google\pages\LoginPage.class
